@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Franco Pioletti@Altairseven
-- I’m Senior Fullstack developer at AyJ Sistemas S.R.L.
-- I’m also teach coding to friends and family.
+- Senior Fullstack developer at AyJ Sistemas S.R.L.
+- Code Tutor for friends and family.
 - I’m looking to collaborate on .Net, Vue, React or Flutter proyects.
